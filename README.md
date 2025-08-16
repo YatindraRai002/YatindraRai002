@@ -53,9 +53,4 @@
   </a>
 </div>
 
----
 
-### 🐍 Snake Contribution Graph
-![Snake animation](https://github.com/YatindraRai002/YatindraRai002/blob/output/github-contribution-grid-snake.svg)
-
----
