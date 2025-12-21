@@ -24,10 +24,8 @@
 ###
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YatindraRai002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
-![GitHub Trophy](https://github-profile-trophy.vercel.app?username=YatindraRai002&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YatindraRai002&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatindraRai002&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ###
@@ -133,7 +131,6 @@
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-
 
 
 ## 🎯 What I'm Currently Working On
