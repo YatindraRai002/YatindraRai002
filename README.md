@@ -159,13 +159,7 @@
 
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YatindraRai002&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-###
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
