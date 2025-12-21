@@ -35,7 +35,7 @@
 ## 🚀 Featured Projects
 
 ### 🌱 Green AI - Sapling Detection & Survival Estimation
-[![View Project](https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github)](https://github.com/YatindraRai002/Green-AI)
+[![View Project](https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github)](https://github.com/YatindraRai002/greenaimodel.git)
 
 **Tech Stack:** `Python` • `PyTorch` • `U-Net` • `Image Processing` • `Geospatial Visualization`
 
