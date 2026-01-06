@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Yatindra Rai</h1>
 
 <p align="center">
-  <b>Frontend Developer | AI Explorer</b>
+  <b>Frontend Developer | AI Explorer | Coder</b>
 </p>
 
 
